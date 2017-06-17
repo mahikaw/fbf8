@@ -18,7 +18,23 @@
             "id": 1, 
             "link": "https://www.facebook.com/FacebookForDevelopers", 
             "name": "Facebook"
-    }],
+    },
+    {
+            "id": 2, 
+            "link": "https://twitter.com/fbplatform", 
+            "name": "Twitter"
+    },
+    {
+            "id": 3, 
+            "link": "https://www.instagram.com/explore/tags/fbf8/", 
+            "name": "Instagram"
+    },
+    {
+            "id": 4, 
+            "link": "https://github.com/Facebook", 
+            "name": "GitHub"
+    }
+    ],
 	"ticket_url": null,
 	"privacy": "public",
 	"type": "",
@@ -26,19 +42,26 @@
 	"sub_topic": "High Tech",
 	"code_of_conduct": "",
 	"copyright": {
-        "holder": "Facebook", 
-        "holder_url": null, 
-        "licence": "Public Domain Dedication (CC0)", 
-        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/", 
-        "logo": "http://i.creativecommons.org/p/zero/1.0/88x31.png", 
-        "year": 2017
-    }, 
+		"logo": "",
+		"licence_url": "https://en.wikipedia.org/wiki/All_rights_reserved",
+		"holder": "Facebook",
+		"licence": "All rights reserved",
+		"holder_url": null,
+		"year": 2017
+	},
 	"call_for_papers": null,
 	"email": null,
 	"has_session_speakers": false,
 	"identifier": "7d16c124",
 	"large": null,
-	"licence_details": null,
+	"licence_details": {
+		"logo": "",
+		"compact_logo": "",
+		"name": "All rights reserved",
+		"url": "https://en.wikipedia.org/wiki/All_rights_reserved",
+		"long_name": "All rights reserved",
+		"description": "The copyright holder reserves, or holds for their own use, all the rights provided by copyright law under one specific copyright treaty."
+	},
 	"placeholder_url": null,
 	"schedule_published_on": null,
 	"searchable_location_name": null,
