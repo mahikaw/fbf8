@@ -3215,5 +3215,95 @@
       "track": null,
       "speakers": null,
       "microlocation": null
+   },
+   {
+      "short_abstract": "",
+      "id": 71,
+      "subtitle": "Keynote",
+      "title": "Keynote day 1",
+      "long_abstract": "",
+      "end_time": "2017-04-18T11:30:00-07:00",
+      "start_time": "2017-04-18T10:30:00-07:00",
+      "comments": "",
+      "language": "",
+      "slides": "",
+      "audio": "",
+      "video": "",
+      "signup_url": "",
+      "state": "accepted",
+      "session_type": {
+      "id": 9,
+      "name": "1.5 hours",
+      "length": "01.30"
+   },
+      "track": {
+         "id": 17,
+         "name": "Keynotes",
+         "color": "#E6E6FA"
+      },
+      "speakers": [{
+         "city": "Palo Alto,CA",
+         "heard_from": "",
+         "icon": "",
+         "long_biography": "",
+         "small": "",
+         "photo": "",
+         "thumbnail": "",
+         "short_biography": "",
+         "speaking_experience": "",
+         "sponsorship_required": "",
+         "organisation": "Facebook",
+         "id": 169,
+         "name": "Mark Zuckerberg"
+      }],
+      "microlocation": {
+         "id": 10,
+         "name": "City National Civic"
+      }
+   },
+   {
+      "short_abstract": "",
+      "id": 72,
+      "subtitle": "Keynote",
+      "title": "Keynote day 2",
+      "long_abstract": "",
+      "end_time": "2017-04-19T11:30:00-07:00",
+      "start_time": "2017-04-19T10:30:00-07:00",
+      "comments": "",
+      "language": "",
+      "slides": "",
+      "audio": "",
+      "video": "",
+      "signup_url": "",
+      "state": "accepted",
+      "session_type": {
+      "id": 9,
+      "name": "1.5 hours",
+      "length": "01.30"
+   },
+      "track": {
+         "id": 17,
+         "name": "Keynotes",
+         "color": "#E6E6FA"
+      },
+      "speakers": [{
+         "city": "",
+         "heard_from": "",
+         "icon": "",
+         "long_biography": "",
+         "small": "",
+         "photo": "",
+         "thumbnail": "",
+         "short_biography": "",
+         "speaking_experience": "",
+         "sponsorship_required": "",
+         "organisation": "Facebook",
+         "id": 170,
+         "name": "mike schroepfer"
+      }],
+      "microlocation": {
+         "id": 10,
+         "name": "City National Civic"
+      }
    }
 ]

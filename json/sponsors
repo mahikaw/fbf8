@@ -2,8 +2,82 @@
 	"id": 1,
 	"name": "Facebook",
 	"logo": "/images/sponsors/logo.png",
-	"level": "1",
+	"level": "2",
 	"sponsor_type": "Diamond Sponsor",
 	"url": "www.facebook.com",
 	"description": ""
-}]
+},
+{
+	"id": 2,
+	"name": "Facebook Payments Inc.",
+	"logo": "/images/sponsors/logo.png",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "https://www.facebook.com/payments_terms/privacy",
+	"description": ""
+},
+{
+	"id": 3,
+	"name": "Atlas",
+	"logo": "/images/sponsors/at.jpg",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "http://atlassolutions.com/privacy-policy",
+	"description": ""
+},
+{
+	"id": 4,
+	"name": "Instagram LLC",
+	"logo": "/images/sponsors/insta.png",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "http://instagram.com/about/legal/privacy/",
+	"description": ""
+},
+{
+	"id": 5,
+	"name": "Moves",
+	"logo": "/images/sponsors/move.png",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "http://moves-app.com/privacy",
+	"description": ""
+},
+{
+	"id": 6,
+	"name": "Oculus",
+	"logo": "/images/sponsors/oculus.jpg",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "http://www.oculus.com/privacy/",
+	"description": "The Oculus Rift is a virtual reality headset developed and manufactured by Oculus VR, a division of Facebook Inc., released on March 28, 2016. Oculus initiated a Kickstarter campaign in 2012 to fund the Rift's development, after being founded as an independent company two months prior."
+},
+{
+	"id": 6,
+	"name": "WhatsApp Inc.",
+	"logo": "/images/sponsors/whatsapp.png",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "http://www.whatsapp.com/legal/#Privacy",
+	"description": ""
+},
+
+{
+	"id": 7,
+	"name": "Masquerade",
+	"logo": "/images/sponsors/ms.jpg",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "https://www.facebook.com/msqrd/privacy",
+	"description": ""
+},
+{
+	"id": 7,
+	"name": "CrowdTriangle",
+	"logo": "/images/sponsors/ct.jpg",
+	"level": "1",
+	"sponsor_type": "Partners",
+	"url": "https://www.crowdtangle.com/privacy",
+	"description": ""
+}
+]
