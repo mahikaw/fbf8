@@ -3232,10 +3232,10 @@
       "signup_url": "",
       "state": "accepted",
       "session_type": {
-      "id": 9,
-      "name": "1.5 hours",
-      "length": "01.30"
-   },
+         "id": 9,
+         "name": "1 hour 30 minutes session",
+         "length": "01.30"
+      },
       "track": {
          "id": 17,
          "name": "Keynotes",
@@ -3277,10 +3277,10 @@
       "signup_url": "",
       "state": "accepted",
       "session_type": {
-      "id": 9,
-      "name": "1.5 hours",
-      "length": "01.30"
-   },
+         "id": 9,
+         "name": "1 hour 30 minutes session",
+         "length": "01.30"
+      },
       "track": {
          "id": 17,
          "name": "Keynotes",

@@ -19,7 +19,7 @@
 {
 	"id": 3,
 	"name": "Atlas",
-	"logo": "/images/sponsors/at.jpg",
+	"logo": "/images/sponsors/atlas.jpg",
 	"level": "1",
 	"sponsor_type": "Partners",
 	"url": "http://atlassolutions.com/privacy-policy",
@@ -46,7 +46,7 @@
 {
 	"id": 6,
 	"name": "Oculus",
-	"logo": "/images/sponsors/oculus.jpg",
+	"logo": "/images/sponsors/oculus.png",
 	"level": "1",
 	"sponsor_type": "Partners",
 	"url": "http://www.oculus.com/privacy/",
