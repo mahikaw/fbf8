@@ -206,7 +206,7 @@
       "name": "Allison Swope",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/swope.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 9,
@@ -583,7 +583,7 @@
       "name": "Dolapo Falola",
       "email": "dolapo@gmail.com",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/dolapo.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 18,
@@ -667,7 +667,7 @@
    },
    {
       "id": 30,
-      "name": "Gary Urteag",
+      "name": "Gary Urteaga",
       "email": "",
       "mobile": "",
       "photo": "/images/speakers/gary.jpg",
@@ -728,14 +728,14 @@
       "name": "Konstantin Raev",
       "email": "bestander@gmail.com",
       "mobile": "",
-      "photo": "/images/speakers/Kons.png",
+      "photo": "/images/speakers/kons.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 21,
          "title": "Building High-Quality JavaScript Tools"
       }],
       "country": "US",
-      "short_biography": "",
+      "short_biography": "JavaScript (ES6, React, Angular 1 & 2, Node.js), Amazon Web Services (EC2, S3, Elastic Beanstalk, Route 53), Microsoft Azure (Web Sites, Database, Storage, CDN, Node.js API), iOS and Android Apps (React Native, Phonegap, HockeyApp, TestFlight), Chrome Apps, NoSQL (MongoDB, LevelDB), SQL (PostgreSQL, MySQL, Oracle, Timesten, etc), SDLC (SCRUM, Agile, Waterfall)",
       "website": "http://github.com/bestander",
       "twitter": "",
       "facebook": "",
@@ -844,7 +844,7 @@
       "name": "Amber Roy",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/roy.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 24,
@@ -967,7 +967,7 @@
          "title": "The Making of Facebook Spaces"
       }],
       "country": "US",
-      "short_biography": "",
+      "short_biography": "I'm building a team to explore how Virtual Reality can empower the 1.5+ billion people on Facebook to share their experiences and connect with each other in amazing and powerful new ways. If you're a veteran game developer experienced in building multiplayer online 3D games, come help me build the future of Social VR!",
       "website": "",
       "twitter": "",
       "facebook": "",
@@ -1134,7 +1134,7 @@
       "name": "Katie Coons",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/coons.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 32,
@@ -1163,7 +1163,7 @@
       "name": "Kasper Kopec",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/kasp.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 32,
@@ -1250,7 +1250,7 @@
       "name": "Rachel Tucker",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/rach.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 33,
@@ -1337,7 +1337,7 @@
       "name": "Mike LeBeau",
       "email": "",
       "mobile": "",
-      "photo": "/images/speakers/le.png",
+      "photo": "/images/speakers/lebeau.png",
       "organisation": "Oculus",
       "sessions": [{
          "id": 36,
@@ -1576,7 +1576,7 @@
       }],
       "organisation": "Facebook",
       "country": "",
-      "short_biography": "",
+      "short_biography": "Specialties: Information Retrieval, Natural Language Processing (NLP), Machine Learning",
       "website": "",
       "twitter": "",
       "facebook": "",
@@ -1830,7 +1830,7 @@
       "name": "Jeff Hui",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/hui.jpg",
       "sessions": [{
          "id": 50,
          "title": "Visually connecting people and businesses"
@@ -2127,7 +2127,7 @@
       }],
       "organisation": "Facebook",
       "country": "",
-      "short_biography": "",
+      "short_biography": "Strategy & Operations Manager, Emerging Business @ Facebook, Operations and Planning Manager @ Facebook,Engagement Manager @ McKinsey & Company",
       "website": "",
       "twitter": "",
       "facebook": "",
@@ -2178,7 +2178,7 @@
       "name": "Nicholas Carlson",
       "email": "",
       "mobile": "",
-      "photo": "/images/speakers/nic",
+      "photo": "/images/speakers/nic.jpg",
       "sessions": [{
          "id": 53,
          "title": "Monetizing in a video-first environment"
@@ -2583,14 +2583,14 @@
       "name": "Chetan Gupta",
       "email": "",
       "mobile": "",
-      "photo": "",
+      "photo": "/images/speakers/chetna.jpg",
       "sessions": [{
          "id": 63,
          "title": "360 Capture SDK: Making VR social through immersive media capture"
       }],
       "organisation": "Facebook",
       "country": "",
-      "short_biography": " am currently working at Facebook as a product manager focused on 360 video and 360 live. Currently my main focus is on 360/VR media though I have strong interests in general product development and applications of AI/ML tech. Feel free to reach out if you work on VR, 360, or have general interests that overlap.",
+      "short_biography": "I am currently working at Facebook as a product manager focused on 360 video and 360 live. Currently my main focus is on 360/VR media though I have strong interests in general product development and applications of AI/ML tech. Feel free to reach out if you work on VR, 360, or have general interests that overlap.",
       "website": "",
       "twitter": "",
       "facebook": "",
@@ -2619,7 +2619,7 @@
       }],
       "organisation": "Facebook",
       "country": "",
-      "short_biography": "",
+      "short_biography": "I manage several cross platform teams (Android, iOS, JS, php) working on helping people connect with friends and family and inform them about events in the world through News Feed.",
       "website": "",
       "twitter": "",
       "facebook": "",
@@ -2822,7 +2822,7 @@
       }],
       "organisation": "Facebook",
       "country": "",
-      "short_biography": "",
+      "short_biography": "I've worked on: Facebook Lite, Facebook for Android, Facebook Home, Instagram",
       "website": "",
       "twitter": "",
       "facebook": "",
