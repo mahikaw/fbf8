@@ -351,7 +351,7 @@
       "name": "Megan Summers",
       "email": "",
       "mobile": "",
-      "photo": "/images/speakers/lucas.jpg",
+      "photo": "/images/speakers/megan.jpg",
       "organisation": "Facebook",
       "sessions": [{
          "id": 14,
@@ -1337,7 +1337,7 @@
       "name": "Mike LeBeau",
       "email": "",
       "mobile": "",
-      "photo": "/images/speakers/le.png",
+      "photo": "/images/speakers/lebeau.jpg",
       "organisation": "Oculus",
       "sessions": [{
          "id": 36,
@@ -1605,7 +1605,7 @@
       }],
       "organisation": "Facebook",
       "country": "",
-      "short_biography": "",
+      "short_biography": "I am a Technical Program Manager for the Applied Machine Learning platform team. Our team builds the Machine Learning platform used across Facebook.",
       "website": "",
       "twitter": "",
       "facebook": "",
@@ -2178,7 +2178,7 @@
       "name": "Nicholas Carlson",
       "email": "",
       "mobile": "",
-      "photo": "/images/speakers/nic",
+      "photo": "/images/speakers/nic.jpg",
       "sessions": [{
          "id": 53,
          "title": "Monetizing in a video-first environment"
